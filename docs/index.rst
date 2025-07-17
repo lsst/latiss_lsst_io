@@ -15,7 +15,7 @@ LATISS was installed in early 2020.
 Citing LATISS
 =============
 
-Use of the correct formal citation strings and keywords ensures that all uses of data from LSSTComCam can be found using community tools.
+Use of the correct formal citation strings and keywords ensures that all uses of data from LATISS can be found using community tools.
 
 * DOI: https://doi.org/10.71929/rubin/2571930 (refers to this document)
 
